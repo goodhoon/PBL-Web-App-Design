@@ -1,5 +1,3 @@
-/* Referred to https://www.w3schools.com/howto/howto_js_tabs.asp to implement the tab */
-
 
 /* Tab and Feedback Part */
 
