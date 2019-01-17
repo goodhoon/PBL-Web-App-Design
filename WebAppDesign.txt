@@ -2,7 +2,7 @@
 http://goodhoon73.dothome.co.kr/index.html <-- Please go to this link.
 
 2.
-Only front-end design, no serverside database
+Only front end design, no server side database
 Please refer to Readme.pdf
 
 3.
