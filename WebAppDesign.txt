@@ -1,0 +1,10 @@
+1.
+http://goodhoon73.dothome.co.kr/index.html <-- Please doubleclick this link.
+
+2.
+Only front-end design, no serverside database
+Please refer to Readme.pdf
+
+3.
+Sources are available on request.
+
