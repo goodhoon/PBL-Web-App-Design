@@ -1,5 +1,5 @@
 1.
-http://goodhoon73.dothome.co.kr/index.html <-- Please doubleclick this link.
+http://goodhoon73.dothome.co.kr/index.html <-- Please go to this link.
 
 2.
 Only front-end design, no serverside database
